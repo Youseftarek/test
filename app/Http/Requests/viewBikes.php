@@ -22,7 +22,7 @@ class viewBikes extends Request {
 	public function rules()
 	{
 		return [
-			'station' => 'required'
+			//
 		];
 	}
 
